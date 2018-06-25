@@ -1,0 +1,4 @@
+ORIGINAL:line 1,
+line {{ var }} 2
+last line
+TRANS:
